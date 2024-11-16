@@ -4,7 +4,7 @@ Description: "EC2 Instance for Service Catalog"
 Parameters:
   InstanceType:
     Type: String
-    Default: t2.micro
+    Default: t3.micro
     Description: "Instance type for EC2"
   OwnerId:
     Type: String
