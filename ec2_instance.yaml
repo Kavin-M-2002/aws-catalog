@@ -5,7 +5,7 @@ Resources:
     Type: "AWS::EC2::Instance"
     Properties:
       InstanceType: "t2.micro"
-      ImageId: "ami-0abcdef1234567890"  # Replace with a valid AMI ID
+      ImageId: "i9n1bowp0b"  # Replace with a valid AMI ID
       Tags:
         - Key: "Name"
           Value: "ServiceCatalogEC2"
